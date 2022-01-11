@@ -1,0 +1,24 @@
+{
+  "name": "express-exampel",
+  "version": "1.0.0",
+  "description": "exampel with express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clindforsSejsing/testingSSR.git"
+  },
+  "author": "C. lindfors Sejsing",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
